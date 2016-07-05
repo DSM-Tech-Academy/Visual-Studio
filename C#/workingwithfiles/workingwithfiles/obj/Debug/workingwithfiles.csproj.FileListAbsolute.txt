@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\workingwithfiles\workingwithfiles\bin\Debug\workingwithfiles.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\workingwithfiles\workingwithfiles\bin\Debug\workingwithfiles.exe
+c:\users\owner\documents\visual studio 2015\Projects\workingwithfiles\workingwithfiles\bin\Debug\workingwithfiles.pdb
+c:\users\owner\documents\visual studio 2015\Projects\workingwithfiles\workingwithfiles\obj\Debug\workingwithfiles.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\workingwithfiles\workingwithfiles\obj\Debug\workingwithfiles.exe
+c:\users\owner\documents\visual studio 2015\Projects\workingwithfiles\workingwithfiles\obj\Debug\workingwithfiles.pdb

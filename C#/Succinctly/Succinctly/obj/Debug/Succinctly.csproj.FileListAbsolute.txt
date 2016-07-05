@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\C#\Succinctly\Succinctly\bin\Debug\Succinctly.exe.config
+C:\Users\Owner\Documents\GitHub\C#\Succinctly\Succinctly\obj\Debug\Succinctly.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\C#\Succinctly\Succinctly\bin\Debug\Succinctly.exe
+C:\Users\Owner\Documents\GitHub\C#\Succinctly\Succinctly\bin\Debug\Succinctly.pdb
+C:\Users\Owner\Documents\GitHub\C#\Succinctly\Succinctly\obj\Debug\Succinctly.exe
+C:\Users\Owner\Documents\GitHub\C#\Succinctly\Succinctly\obj\Debug\Succinctly.pdb

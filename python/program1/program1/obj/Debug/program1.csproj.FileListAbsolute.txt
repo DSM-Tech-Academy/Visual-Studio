@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\python\program1\program1\bin\Debug\program1.exe.config
+C:\Users\Owner\Documents\GitHub\python\program1\program1\bin\Debug\program1.exe
+C:\Users\Owner\Documents\GitHub\python\program1\program1\bin\Debug\program1.pdb
+C:\Users\Owner\Documents\GitHub\python\program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\python\program1\program1\obj\Debug\program1.exe
+C:\Users\Owner\Documents\GitHub\python\program1\program1\obj\Debug\program1.pdb
+C:\Users\Owner\Documents\GitHub\python\program1\program1\obj\Debug\program1.Properties.Resources.resources
+C:\Users\Owner\Documents\GitHub\python\program1\program1\obj\Debug\program1.csproj.GenerateResource.Cache

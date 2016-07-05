@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\C#\hello World\hello World\bin\Debug\hello World.exe.config
+C:\Users\Owner\Documents\GitHub\C#\hello World\hello World\bin\Debug\hello World.exe
+C:\Users\Owner\Documents\GitHub\C#\hello World\hello World\bin\Debug\hello World.pdb
+C:\Users\Owner\Documents\GitHub\C#\hello World\hello World\obj\Debug\hello World.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\C#\hello World\hello World\obj\Debug\hello World.exe
+C:\Users\Owner\Documents\GitHub\C#\hello World\hello World\obj\Debug\hello World.pdb

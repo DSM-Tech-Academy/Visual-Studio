@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Genesis\Genesis\bin\Debug\Genesis.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Genesis\Genesis\bin\Debug\Genesis.exe
+c:\users\owner\documents\visual studio 2015\Projects\Genesis\Genesis\bin\Debug\Genesis.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Genesis\Genesis\obj\Debug\Genesis.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Genesis\Genesis\obj\Debug\Genesis.exe
+c:\users\owner\documents\visual studio 2015\Projects\Genesis\Genesis\obj\Debug\Genesis.pdb

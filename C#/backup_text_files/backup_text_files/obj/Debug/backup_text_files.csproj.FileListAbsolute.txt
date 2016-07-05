@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\backup_text_files\backup_text_files\bin\Debug\backup_text_files.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\backup_text_files\backup_text_files\bin\Debug\backup_text_files.exe
+c:\users\owner\documents\visual studio 2015\Projects\backup_text_files\backup_text_files\bin\Debug\backup_text_files.pdb
+c:\users\owner\documents\visual studio 2015\Projects\backup_text_files\backup_text_files\obj\Debug\backup_text_files.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\backup_text_files\backup_text_files\obj\Debug\backup_text_files.exe
+c:\users\owner\documents\visual studio 2015\Projects\backup_text_files\backup_text_files\obj\Debug\backup_text_files.pdb

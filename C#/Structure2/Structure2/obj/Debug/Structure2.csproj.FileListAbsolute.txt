@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Structure2\Structure2\bin\Debug\Structure2.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Structure2\Structure2\bin\Debug\Structure2.exe
+c:\users\owner\documents\visual studio 2015\Projects\Structure2\Structure2\bin\Debug\Structure2.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Structure2\Structure2\obj\Debug\Structure2.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Structure2\Structure2\obj\Debug\Structure2.exe
+c:\users\owner\documents\visual studio 2015\Projects\Structure2\Structure2\obj\Debug\Structure2.pdb

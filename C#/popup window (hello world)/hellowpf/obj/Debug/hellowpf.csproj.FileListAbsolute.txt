@@ -1,0 +1,14 @@
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\bin\Debug\hellowpf.exe.config
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\bin\Debug\hellowpf.exe
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\bin\Debug\hellowpf.pdb
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf_MarkupCompile.cache
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf_MarkupCompile.lref
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf.g.resources
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf.Properties.Resources.resources
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf.exe
+C:\Users\Owner\Documents\GitHub\C#\hellowpf\hellowpf\obj\Debug\hellowpf.pdb

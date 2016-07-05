@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EF.exe.config
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EF.exe
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EF.pdb
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\obj\Debug\EF.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\obj\Debug\EF.exe
+C:\Users\Owner\Documents\GitHub\C#\EF\EF\obj\Debug\EF.pdb

@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\C#\CsharpDrill42\CsharpDrill42\bin\Debug\CsharpDrill42.exe.config
+C:\Users\Owner\Documents\GitHub\C#\CsharpDrill42\CsharpDrill42\bin\Debug\CsharpDrill42.exe
+C:\Users\Owner\Documents\GitHub\C#\CsharpDrill42\CsharpDrill42\bin\Debug\CsharpDrill42.pdb
+C:\Users\Owner\Documents\GitHub\C#\CsharpDrill42\CsharpDrill42\obj\Debug\CsharpDrill42.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\C#\CsharpDrill42\CsharpDrill42\obj\Debug\CsharpDrill42.exe
+C:\Users\Owner\Documents\GitHub\C#\CsharpDrill42\CsharpDrill42\obj\Debug\CsharpDrill42.pdb

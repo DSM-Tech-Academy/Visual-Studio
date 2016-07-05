@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Drill42\Drill42\bin\Debug\Drill42.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Drill42\Drill42\bin\Debug\Drill42.exe
+c:\users\owner\documents\visual studio 2015\Projects\Drill42\Drill42\bin\Debug\Drill42.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Drill42\Drill42\obj\Debug\Drill42.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Drill42\Drill42\obj\Debug\Drill42.exe
+c:\users\owner\documents\visual studio 2015\Projects\Drill42\Drill42\obj\Debug\Drill42.pdb

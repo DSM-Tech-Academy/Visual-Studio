@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\webscape\webscape\bin\Debug\webscape.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\webscape\webscape\bin\Debug\webscape.exe
+c:\users\owner\documents\visual studio 2015\Projects\webscape\webscape\bin\Debug\webscape.pdb
+c:\users\owner\documents\visual studio 2015\Projects\webscape\webscape\obj\Debug\webscape.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\webscape\webscape\obj\Debug\webscape.exe
+c:\users\owner\documents\visual studio 2015\Projects\webscape\webscape\obj\Debug\webscape.pdb

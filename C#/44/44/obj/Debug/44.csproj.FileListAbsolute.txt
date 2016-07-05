@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\44\44\bin\Debug\44.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\44\44\obj\Debug\44.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\44\44\bin\Debug\44.exe
+c:\users\owner\documents\visual studio 2015\Projects\44\44\bin\Debug\44.pdb
+c:\users\owner\documents\visual studio 2015\Projects\44\44\obj\Debug\44.exe
+c:\users\owner\documents\visual studio 2015\Projects\44\44\obj\Debug\44.pdb

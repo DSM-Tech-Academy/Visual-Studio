@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\attach_server.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\visualstudio_py_repl.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\visualstudio_py_util.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\__init__.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\__main__.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\bin\AzureSetup.cfg
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\bin\wfastcgi.py
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\web.config
+C:\Users\Owner\Documents\GitHub\python\basic_page\basic_page\obj\Debug\web.debug.config

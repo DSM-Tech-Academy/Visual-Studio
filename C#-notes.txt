@@ -1,0 +1,55 @@
+﻿
+
+
+Beverages
+================================================
+==  splitting
+================================================
+string myString = "12,Apple,20";
+string[] subStrings = myString.Split(',');
+
+foreach (string str in subStrings)
+{
+    Console.WriteLine(str);
+}
+
+====================================
+===
+=====================================
+
+const string value = "Your dog is cute.";
+
+	// Test with IndexOf method.
+	if (value.IndexOf("dog") != -1)
+	{
+	    Console.WriteLine("string contains dog!");
+	}
+
+======================================================
+===   Lists
+======================================================
+
+List<int> list = new List<int>();
+	list.Add(2);
+	list.Add(3);
+	list.Add(5);
+	list.Add(7);
+
+=====================================================
+== Regex replace
+======================================================
+
+
+   string s1 = Regex.Replace(m, "[^A-Za-z0-9 _ <>,.\"]", "");
+
+// This is the input string we are replacing parts from.
+	string input = "Dot Net Not Perls";
+
+	// Use Regex.Replace to replace the pattern in the input.
+	// ... The pattern N.t indicates three letters.
+	// ... N, any character, and t.
+	string output = Regex.Replace(input, "N.t", "NET");
+
+	// Write the output.
+	Console.WriteLine(input);
+	Console.WriteLine(output);
